@@ -1,6 +1,6 @@
 Welcome to my Github
 
-My name is Luis and I am currently enrolled in the Amazon Re/Start program in Berlin to obtain the "AWS Cloud Practitioner" certificate.
+My name is Luis and I am an Amazon Re/Start program graduate as well as a certified AWS Cloud Practitione.
 
 I am relatively new to cloud computing although I have basic/intermediate IT skills:
 I do know a bit of Ruby and Python as well as of SQL, HTML, Bash, and networking.
